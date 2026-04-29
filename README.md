@@ -1,145 +1,111 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Sadia Shabbir - Portfolio</title>
+# Sadia Shabbir
 
-<style>
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    background: #f4f6f9;
-    color: #333;
-}
+### Computer Science Student | Graphic Designer | Digital Marketing Specialist
 
-.container {
-    width: 80%;
-    margin: auto;
-    background: white;
-    padding: 30px;
-}
+📍 Chakwal, Pakistan  
+📞 Phone: +92 3145705815  
+📧 Email: sadiashabbir624@gmail.com  
 
-h1 {
-    color: #2c3e50;
-}
+---
 
-h2 {
-    border-bottom: 2px solid #3498db;
-    padding-bottom: 5px;
-    color: #2980b9;
-}
+## 🚀 About Me
 
-.section {
-    margin-bottom: 25px;
-}
+I am a hardworking and motivated Computer Science student with experience in web development, freelancing, customer support, and digital marketing.
 
-.header {
-    text-align: center;
-    padding: 20px;
-    background: #2c3e50;
-    color: white;
-}
+I enjoy learning new technologies and improving my skills. I can work independently as well as in a team and always try to complete tasks with full dedication and responsibility.
 
-.contact {
-    text-align: center;
-    margin-top: 10px;
-    font-size: 14px;
-}
+My goal is to grow professionally and contribute positively to any organization I work with.
 
-ul {
-    line-height: 1.6;
-}
-</style>
+---
 
-</head>
+## 🎯 Career Objective
 
-<body>
+To obtain a professional opportunity where I can apply my skills in web development, graphic designing, digital marketing, and communication while continuing to learn and grow in a dynamic environment.
 
-<div class="header">
-    <h1>Sadia Shabbir</h1>
-    <p>Computer Science Student | Graphic Designer | Digital Marketing Specialist</p>
-    <p>Chakwal, Pakistan | +92 3145705815 | sadiashabbir624@gmail.com</p>
-</div>
+---
 
-<div class="container">
+## 💼 Skills
 
-    <div class="section">
-        <h2>Career Objective</h2>
-        <p>Motivated and hardworking Computer Science student with practical experience in web development, freelancing, customer support, management, and data handling. Seeking a professional opportunity to utilize my technical, creative, and communication skills for growth.</p>
-    </div>
+### 💻 Technical Skills
+- Web Development (HTML, CSS, JavaScript Basics)
+- Graphic Designing & Canva
+- Social Media Marketing & SEO
+- Content Writing
+- Data Entry & Internet Research
+- Microsoft Excel, Word, PowerPoint
+- File Handling & Documentation
 
-    <div class="section">
-        <h2>About Me</h2>
-        <p>Hardworking student with skills in graphic designing, web development, data entry, customer support, and digital marketing. Strong communication and leadership abilities with freelancing and team experience.</p>
-        <p>I am passionate about learning new technologies and improving my skills. I can work independently and in teams with full dedication.</p>
-    </div>
+### 📞 Communication Skills
+- Chat & Email Support
+- Customer Support
+- Client Dealing
+- Social Media Handling
+- Administrative Support
 
-    <div class="section">
-        <h2>Skills</h2>
-        <ul>
-            <li>Web Development (HTML, CSS, JavaScript Basics)</li>
-            <li>Graphic Designing & Canva</li>
-            <li>Social Media Marketing & SEO</li>
-            <li>Content Writing</li>
-            <li>Data Entry & Internet Research</li>
-            <li>MS Excel, Word, PowerPoint</li>
-            <li>Chat & Email Support</li>
-            <li>Customer Support & Client Dealing</li>
-            <li>Team Leadership & Multitasking</li>
-        </ul>
-    </div>
+### ⭐ Soft Skills
+- Team Leadership
+- Time Management
+- Problem Solving
+- Multitasking
+- Quick Learning
 
-    <div class="section">
-        <h2>Experience</h2>
-        <ul>
-            <li><b>Manager / Team Leader (Call Center - 6+ Months)</b></li>
-            <li>Managed team operations and customer support</li>
-            <li>Maintained reports and performance records</li>
-            <li>Achieved targets and solved daily issues</li>
-        </ul>
+---
 
-        <ul>
-            <li><b>Freelancer</b></li>
-            <li>Worked on data entry, content writing, digital tasks</li>
-            <li>Handled client communication and delivery</li>
-        </ul>
+## 💼 Experience
 
-        <ul>
-            <li><b>Web Development Intern</b></li>
-            <li>Learned HTML, CSS, JavaScript basics</li>
-            <li>Worked on small web projects</li>
-        </ul>
-    </div>
+### 👩‍💼 Manager / Team Leader (Call Center) – 6+ Months
+- Managed team operations and coordination  
+- Handled customer communication and support  
+- Maintained reports and performance records  
+- Achieved targets and solved daily issues  
 
-    <div class="section">
-        <h2>Education</h2>
-        <p><b>Bachelor of Computer Science</b> (Ongoing) - Fatima Jinnah Women University (2024 - Present)</p>
-        <p><b>FSC (ICS)</b> - Science College Kallar Kahar (2022 - 2024)</p>
-        <p><b>Matric</b> - Govt Girls High School Kallar Kahar (2020 - 2022)</p>
-    </div>
+### 🧑‍💻 Freelancer
+- Worked on data entry, content writing, and digital tasks  
+- Managed client communication and project delivery  
+- Completed online work on time  
 
-    <div class="section">
-        <h2>Certificates</h2>
-        <ul>
-            <li>Web Development Internship</li>
-            <li>Graphic Designing</li>
-            <li>Social Media Marketing</li>
-            <li>SEO</li>
-            <li>Content Writing</li>
-            <li>Freelancing</li>
-        </ul>
-    </div>
+### 🌐 Web Development Intern
+- Learned HTML, CSS, JavaScript basics  
+- Worked on small front-end projects  
+- Gained practical development experience  
 
-    <div class="section">
-        <h2>Languages</h2>
-        <ul>
-            <li>Urdu</li>
-            <li>English</li>
-            <li>Hindi</li>
-        </ul>
-    </div>
+---
 
-</div>
+## 🎓 Education
 
-</body>
-</html>
+**Bachelor of Computer Science (Ongoing)**  
+Fatima Jinnah Women University (2024 – Present)
+
+**FSC (ICS)**  
+Science College Kallar Kahar (2022 – 2024)
+
+**Matriculation**  
+Govt Girls High School Kallar Kahar (2020 – 2022)
+
+---
+
+## 📜 Certificates
+
+- Web Development Internship Certificate  
+- Graphic Designing Certificate  
+- Social Media Marketing Certificate  
+- SEO Certificate  
+- Content Writing Certificate  
+- Freelancing Certificate  
+
+---
+
+## 🌐 Languages
+
+- Urdu  
+- English  
+- Hindi  
+
+---
+
+## 📌 Let's Connect
+
+I am always open to learning opportunities, internships, and freelance projects. Feel free to contact me anytime.
+
+---
+⭐ *Thank you for visiting my profile!*
